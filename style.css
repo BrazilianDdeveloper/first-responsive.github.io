@@ -4,6 +4,8 @@ html {
     font-family: sans-serif;
 }
 
+
+
 /*Sempre que tiver a classe .row1, ele já faz um cliarfix para lidar com o float*/
 
 .clearfix:after, .row1:after {
@@ -151,6 +153,8 @@ a {
     background: #25303e;
     color: #83969f;
     text-align: center;
+    padding-bottom: 30px;
+
 }
 
 .footer-icons {
