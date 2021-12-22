@@ -93,6 +93,10 @@ a {
     margin-bottom: -19px;
 }
 
+.icon-and-description {
+    padding-bottom: 20px;
+}
+
 .icon-play {
     height: 5em;
     display: none;
